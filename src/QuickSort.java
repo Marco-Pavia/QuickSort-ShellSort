@@ -1,4 +1,3 @@
-package Metodos_de_ordenamiento;
 
 /**
  * Clase que implementa el algoritmo de ordenamiento Quicksort (Rápido)

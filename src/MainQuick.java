@@ -1,4 +1,4 @@
-package Metodos_de_ordenamiento;
+
 
 public class MainQuick {
     public static void main(String[] args) {

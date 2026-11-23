@@ -1,4 +1,3 @@
-package Metodos_de_ordenamiento;
 
 public class MainShell {
     public static void main(String[] args) {
